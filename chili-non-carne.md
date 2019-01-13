@@ -16,21 +16,21 @@ Cooking
  * Prepare saucepan, boil some water for rice
  * Start timer
  * FIVE MINUTES
-  * Add pepper, carrots, mushrooms. 
-  * Put water in and heat on rice saucepan.
+   * Add pepper, carrots, mushrooms. 
+   * Put water in and heat on rice saucepan.
  * EIGHT MINUTES
-  * Add rice to rice saucepan.
+   * Add rice to rice saucepan.
  * TEN MINUTES
-  * Add chillies, garlic, 2tbsp ground cumin, 1/2 tbsp smoked paprika, 1tbsp chilli powder
+   * Add chillies, garlic, 2tbsp ground cumin, 1/2 tbsp smoked paprika, 1tbsp chilli powder
  * TWELVE MINUTES 
-  * Stir in the chopped tomatoes, 2tbsp tomato puree 
-  * crumble stock cube over pan. 
-  * Stir occaisonally.
+   * Stir in the chopped tomatoes, 2tbsp tomato puree 
+   * crumble stock cube over pan. 
+   * Stir occaisonally.
  * TWENTY MINUTES 
-  * Stir in 400g kidney beans, 300g Quorn Mince. Season to taste.
+   * Stir in 400g kidney beans, 300g Quorn Mince. Season to taste.
  * THIRTY MINUTES
-  * Done!
-  * Serve with tacos
+   * Done!
+   * Serve with tacos
 
 Next time
 =========
