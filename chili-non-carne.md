@@ -1,3 +1,23 @@
+Ingredients
+===========
+ * 3 Garlic Cloves
+ * Onion- 1 large or 2 small
+ * 1 red pepper
+ * carrots
+ * 1 red chilli pepper 
+ * mushrooms
+ * carrots
+ * 65g rice
+ * 800g chopped tomatoes
+ * 400g kidney beans
+ * ground cumin
+ * smoked paprika
+ * chilli powder
+ * tomato puree
+ * Vegetable stock cube
+ * Quorn Mince
+ * Tacos (Optional)
+
 Preparation
 ===========
 
