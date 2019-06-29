@@ -1,3 +1,13 @@
+Meta
+====
+
+A vegetarian chilli. 3 servings.
+
+Utencils needed
+---------------
+
+* Large saucepan.
+
 Ingredients
 ===========
  * 3 Garlic Cloves

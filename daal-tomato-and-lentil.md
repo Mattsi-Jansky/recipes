@@ -1,3 +1,15 @@
+Meta
+====
+
+Lentil curry. Several servings, depending on what you have it with- ie it'll stretch further with rice.
+
+Utencils needed
+---------------
+
+* Large pot
+* Something to measure water
+* Wooden spoon (Wooden as you need to scrape the bottom of the pot)
+
 Ingredients
 ===========
 
