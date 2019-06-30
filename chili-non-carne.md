@@ -38,7 +38,7 @@ Preparation
  * Open 400g kidney beans
  * Boil rice water in kettle
  * Measure out 300g of Quorn in a container
- * Measure out 2tbsp ground cumin, 1/2 tbsp smoked paprika, 1tbsp chilli powder into a small container
+ * Measure out 2tsp ground cumin, 1/2 tsp smoked paprika, 1tsp chilli powder into a small container
 
 Cooking
 =======
@@ -50,10 +50,10 @@ Cooking
  * FIVE MINUTES
    * Add pepper, carrots, mushrooms. 
  * TEN MINUTES
-   * Add chillies, garlic, 2tbsp ground cumin, 1/2 tbsp smoked paprika, 1tbsp chilli powder
+   * Add chillies, garlic, 2tsp ground cumin, 1/2 tsp smoked paprika, 1tsp chilli powder
  * TWELVE MINUTES 
    * Stir in the chopped tomatoes, 2tbsp tomato puree 
-   * crumble stock cube over pan. 
+   * crumble stock cube over pan.
    * Stir occaisonally.
    * Boil rice water in kettle
  * SIXTEEN MINUTES
