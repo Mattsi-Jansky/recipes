@@ -87,8 +87,8 @@ Next time
 
  * Try with lime juice and tomatoes
  * Try Cocnut oil instead of Ghee?
- * Try hotter chilli powder
  * Try adding mushrooms
+ * Try toasting the cumin/mustard seeds- "pan on low/medium heat, keep them gently moving about for a minute or so. When the kitchen smells heavenly, you're done."
 
 Sources
 =======
