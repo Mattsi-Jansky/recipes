@@ -89,6 +89,7 @@ Next time
  * Try Cocnut oil instead of Ghee?
  * Try adding mushrooms
  * Try toasting the cumin/mustard seeds- "pan on low/medium heat, keep them gently moving about for a minute or so. When the kitchen smells heavenly, you're done."
+   * https://www.seriouseats.com/2010/04/how-to-toast-spices-slideshow.html
 
 Sources
 =======
