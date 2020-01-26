@@ -3,6 +3,9 @@ Meta
 
 Lentil curry. Several servings, depending on what you have it with- ie it'll stretch further with rice.
 
+* Servings: 4
+* Calories per serving: 300
+
 Utencils needed
 ---------------
 
