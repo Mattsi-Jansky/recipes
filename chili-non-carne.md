@@ -1,7 +1,10 @@
 Meta
 ====
 
-A vegetarian chilli. 3 servings.
+A vegetarian chilli.
+
+ * Servings: 3
+ * Calories per serving: 800
 
 Utencils needed
 ---------------
@@ -12,12 +15,11 @@ Ingredients
 ===========
  * 3 Garlic Cloves
  * Onion- 1 large or 2 small
- * 1 red pepper
  * carrots
- * 1 red chilli pepper 
- * mushrooms
- * carrots
- * 65g rice
+ * 1 red chilli pepper
+ * mushrooms 150g
+ * carrots 150g
+ * 35g (uncooked) rice
  * 800g chopped tomatoes
  * 400g kidney beans
  * ground cumin
@@ -25,15 +27,15 @@ Ingredients
  * chilli powder
  * tomato puree
  * Vegetable stock cube
- * Quorn Mince
+ * Quorn Mince 300g
  * Tacos (Optional)
 
 Preparation
 ===========
 
  * Crush + mince 3 garlic cloves, store somewhere
- * Dice the onion, pepper, carrots, chillies and mushrooms- store onions separately, chilli with the garlic, and the rest together.
- * Put aside rice- 65-80g, depending on whether using tacos
+ * Dice the onion, carrots, chillies and mushrooms- store onions separately, chilli with the garlic, and the rest together.
+ * Put aside rice- 35g, maybe more if not using tacos
  * Open 600-800g chopped tomatoes
  * Open 400g kidney beans
  * Boil rice water in kettle
@@ -43,12 +45,12 @@ Preparation
 Cooking
 =======
 
- * Pre-heat oil in large frying pan
+ * Pre-heat 2tbsp oil in large frying pan
  * Throw onions in
  * Prepare saucepan, boil some water for rice
  * Start timer
  * FIVE MINUTES
-   * Add pepper, carrots, mushrooms. 
+   * Add carrots, mushrooms. 
  * TEN MINUTES
    * Add chillies, garlic, 2tsp ground cumin, 1/2 tsp smoked paprika, 1tsp chilli powder
  * TWELVE MINUTES 
