@@ -67,12 +67,13 @@ Cooking
 * 5 MINS
   * Add mushrooms
 * 7 MINS
+  * Stir in red wine, it should deglaze the pan
+* 8 MINS
   * Stir in Quorn Mince
   * Stir in the tomatoes
   * Stir in the red pesto
-  * Stir in red wine
   * Stir in Oregano, Dried Chilli Flakes, Garlic Powder, Parsley Powder and stock
-* 15 MINS
+* 16 MINS
   * Stir in the Basil Powder, Rosemary Powder and Thyme
   * Add 1tsp salt and white pepper
   * Take pan off heat
@@ -104,6 +105,7 @@ Next time
 * Find substitutes for the butter and milk, make it vegan.
 * More tomato sauce?
 * Add other veg/fillings (Aubergine, peppers, sweet potatoes)- there was enough space to make it a little bigger
+* Try fresh parsley and basil instead of dried powders (Apparently they don't keep their flavour when dried and then simmered in a mixture)
 
 Sources
 =======
