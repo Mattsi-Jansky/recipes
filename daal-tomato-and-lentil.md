@@ -16,12 +16,12 @@ Utensils needed
 Ingredients
 ===========
 
- * 3-4tbsp Ghee (substitute: vegetable oil)
+ * 3-4 tbsp Ghee (substitute: vegetable oil)
  * 2 large onions or 4 small
- * 2dsp garlic paste (substitute: 4-6 garlic cloves)
+ * 2 dsp garlic paste (substitute: 4-6 garlic cloves)
  * 2 dsp cumin seeds
  * 2 dsp mustard seeds
- * 1dsp ginger paste (substitute: 2.5cm piece fresh root ginger, peeled and grated)
+ * 1 dsp ginger paste (substitute: 2.5cm piece fresh root ginger, peeled and grated)
  * 2 dsp ground tumeric
  * 1 dsp chilli powder
  * 1 dsp garam masala
