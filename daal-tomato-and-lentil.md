@@ -6,7 +6,7 @@ Lentil curry. Several servings, depending on what you have it with- ie it'll str
 * Servings: 8
 * Calories per serving: 300
 
-Utencils needed
+Utensils needed
 ---------------
 
 * Large pot
@@ -89,7 +89,7 @@ Next time
 =========
 
  * Try with lime juice and tomatoes
- * Try Cocnut oil instead of Ghee?
+ * Try coconut oil instead of Ghee?
  * Try adding mushrooms
  * Try toasting the cumin/mustard seeds- "pan on low/medium heat, keep them gently moving about for a minute or so. When the kitchen smells heavenly, you're done."
    * https://www.seriouseats.com/2010/04/how-to-toast-spices-slideshow.html
