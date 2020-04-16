@@ -22,3 +22,9 @@
   * Veggie gravy
 * Paneer
 * Quesadillas
+* Vegetarian "beef" Bourguignon (with Beyond Burger in pieces?)
+  * With Mash Potatoes?
+* Pasta Bake
+* Spaghetti Bolognese (Quorn mince?)
+* Apple Pie with Cloves
+* Ramen
