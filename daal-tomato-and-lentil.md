@@ -6,7 +6,7 @@ Lentil curry. Several servings, depending on what you have it with- ie it'll str
 * Servings: 8
 * Calories per serving: 300
 
-Utencils needed
+Utensils needed
 ---------------
 
 * Large pot
@@ -16,12 +16,12 @@ Utencils needed
 Ingredients
 ===========
 
- * 3-4tbsp Ghee (substitute: vegetable oil)
+ * 3-4 tbsp Ghee (substitute: vegetable oil)
  * 2 large onions or 4 small
- * 2dsp garlic paste (substitute: 4-6 garlic cloves)
+ * 2 dsp garlic paste (substitute: 4-6 garlic cloves)
  * 2 dsp cumin seeds
  * 2 dsp mustard seeds
- * 1dsp ginger paste (substitute: 2.5cm piece fresh root ginger, peeled and grated)
+ * 1 dsp ginger paste (substitute: 2.5cm piece fresh root ginger, peeled and grated)
  * 2 dsp ground tumeric
  * 1 dsp chilli powder
  * 1 dsp garam masala
@@ -89,7 +89,7 @@ Next time
 =========
 
  * Try with lime juice and tomatoes
- * Try Cocnut oil instead of Ghee?
+ * Try coconut oil instead of Ghee?
  * Try adding mushrooms
  * Try toasting the cumin/mustard seeds- "pan on low/medium heat, keep them gently moving about for a minute or so. When the kitchen smells heavenly, you're done."
    * https://www.seriouseats.com/2010/04/how-to-toast-spices-slideshow.html
