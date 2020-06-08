@@ -1,7 +1,7 @@
 Meta
 ====
 
-Pizza Base
+Pizza!
 
 * Servings: 2
 * Calories per serving: ?
