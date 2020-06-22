@@ -1,7 +1,7 @@
 Meta
 ====
 
-Lentil curry. Several servings, depending on what you have it with- ie it'll stretch further with rice.
+Lentil curry. Have with rice and/or wraps/Chappati.
 
 * Servings: 8
 * Calories per serving: 300
@@ -9,7 +9,7 @@ Lentil curry. Several servings, depending on what you have it with- ie it'll str
 Utensils needed
 ---------------
 
-* Large pot
+* Large pot with lid.
 * Something to measure water
 * Wooden spoon (Wooden as you need to scrape the bottom of the pot)
 
@@ -54,36 +54,38 @@ Cooking
  * Start timer (once onions are up to heat)
  * 5 MINS
    * Add the garlic, ginger, cumin and mustard seeds
-   * Boil 800ml water
+   * Boil 350ml water
  * 10 MINS
    * Add in the turmeric, chili powder and garam masala
    * Stir well
  * 11 MINS
-   * Add the 800ml boiled water
+   * Add the boiled water
    * Add the coconut milk and chopped tomatoes
    * Add the lentils
    * Add 1dsp salt, 1dsp pepper
    * Bring to boil
    * Reduce to simmer heat
+   * Remove lid to boil off additional water. Add the pan back when it's at the level of thickness you like.
    * cook for ~45 minutes until lentils are paste, stirring every 5 minutes
- * 16 MINS
+* Restart timer
+ * 5 MINS
    * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 21 MINS
+ * 10 MINS
    * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 26 MINS
+ * 15 MINS
    * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 31 MINS
+ * 20 MINS
    * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 36 MINS
+ * 25 MINS
    * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 41 MINS
+ * 30 MINS
    * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 46 MINS
+ * 35 MINS
    * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 51 MINS
+ * 40 MINS
    * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 56 MINS
-   * Should be done by now, check and serve
+ * 45 MINS
+   * Should be done by now. If so, serve up.
 
 Next time
 =========
@@ -91,10 +93,9 @@ Next time
  * Try with lime juice and tomatoes
  * Try coconut oil instead of Ghee?
  * Try adding mushrooms
- * Try toasting the cumin/mustard seeds- "pan on low/medium heat, keep them gently moving about for a minute or so. When the kitchen smells heavenly, you're done."
-   * https://www.seriouseats.com/2010/04/how-to-toast-spices-slideshow.html
 
 Sources
 =======
 
  * https://hotcooking.co.uk/recipes/tomato-and-lentil-dhal
+ * https://www.seriouseats.com/2010/04/how-to-toast-spices-slideshow.html
