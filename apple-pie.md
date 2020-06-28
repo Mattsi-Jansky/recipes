@@ -13,6 +13,7 @@ WIP Apple pie with cloves. Not yet battle-proven.
 * A large mixing bowl
 * Something to measure water
 * A pie tray
+* Baking tray
 * A rubber spatula
 * Clingfilm
 * Rolling pin
@@ -77,6 +78,7 @@ WIP Apple pie with cloves. Not yet battle-proven.
 
 ### Make the pie
 
+* Place a baking tray in the oven and begin heating it to 260 degrees (or if your oven doesn't go that high, turn it to as high as it'll go).
 * Once your dough has been in the fridge for at least 2 hours...
 * Dust the worksurace with flour, unwrap your dough and place on the worksurface, dust the top of it with dough too
 * Knead it a bit by beating it with a rolling pin
@@ -98,6 +100,9 @@ WIP Apple pie with cloves. Not yet battle-proven.
 * Optionally: Beat an egg with 1tbsp cold water and spread it over the top with a pastry brush
 * Any excess dough can be used to make decorative shapes to add to the top
   * If using egg wash, wash the added shapes too.
+* Remove the pre-heated baking tray from the oven, place the pie tray on it, return baking tray to the oven
+* Reduce oven's temperature to 200C
+* Cook for 30-40 minutes.
 
 ## Next time
 
