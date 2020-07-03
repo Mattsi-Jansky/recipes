@@ -23,7 +23,7 @@ WIP Apple pie with cloves. Not yet battle-proven.
 
 ### Dough
 
-* 350g all-purpose flour
+* 350g plain flour
 * 2tbsp caster sugar (substitute: regular sugar)
 * 1tsp salt
 * 230g of cold butter
@@ -37,7 +37,7 @@ WIP Apple pie with cloves. Not yet battle-proven.
 * 1/2tsp of cinnamon
 * 1/2tsp of ground nutmeg
 * 1tsp ground cloves
-* 2tbsp flour
+* 2tbsp plain flour
 
 ### Egg wash (Optional)
 
