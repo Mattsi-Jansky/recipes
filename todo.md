@@ -31,3 +31,5 @@
   * https://confessionsofabakingqueen.com/apple-pie-with-cloves/
 * Ramen
 * Polenta
+* Chickpea Stew (Dad recommendation)
+  * https://pamelasalzman.com/spiced-chickpea-stew-with-coconut-and-turmeric/
