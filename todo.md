@@ -36,3 +36,5 @@
 * Vegetarian pressure cooker meals
   * Anything from: https://www.delish.com/cooking/g25926591/instant-pot-vegetarian-recipes/
   * Burritos https://www.noracooks.com/vegan-burritos/
+  * Potato curry https://thecookreport.co.uk/pressure-cooker-curry-potato-aubergine/
+  * A stew? https://www.brandnewvegan.com/recipes/instant-pot-veggie-stew
