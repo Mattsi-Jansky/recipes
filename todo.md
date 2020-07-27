@@ -33,3 +33,6 @@
 * Polenta
 * Chickpea Stew (Dad recommendation)
   * https://pamelasalzman.com/spiced-chickpea-stew-with-coconut-and-turmeric/
+* Vegetarian pressure cooker meals
+  * Anything from: https://www.delish.com/cooking/g25926591/instant-pot-vegetarian-recipes/
+  * Burritos https://www.noracooks.com/vegan-burritos/
