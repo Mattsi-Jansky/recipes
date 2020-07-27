@@ -9,7 +9,9 @@ Lentil curry. Have with rice and/or wraps/Chappati.
 Utensils needed
 ---------------
 
-* Large pot with lid.
+* EITHER a large (At least 4L) pot with lid
+  * OR 4L+ pressure cooker and separate large frying pan
+  * The pressure cooker gets much better results
 * Something to measure water
 * Wooden spoon (Wooden as you need to scrape the bottom of the pot)
 
@@ -27,7 +29,7 @@ Ingredients
  * 1 dsp garam masala
  * 500g split red lentils ("masoor daal")
  * 800ml reduced fat coconut milk
- * 800g chopped tomatoes
+ * 800g of fresh tomatoes (alternatively 800g chopped tomatoes from tins)
  * Salt and black pepper
 
  Preparation
@@ -37,6 +39,7 @@ Ingredients
  * crush garlic cloves, place into container
    * Also Measure out the ginger, cumin and mustard seeds into the same container
  * Open tomatoes and coconut milk cans
+   * If using fresh tomatoes, dice them and place in a large bowl
  * Measure out 500g split red lentils
  * Place lentils into large bowl and clean them
    * Fill bowl near to brim with water
@@ -48,44 +51,30 @@ Ingredients
 Cooking
 =======
 
- * Heat up pan with 3-4tbsp ghee, high temp (Sauté)
+ * Heat up pot or pan with 3-4tbsp ghee, high temp (Sauté)
+   * If you're doing pressure cooker use the frying pan, otherwise stick with the one pot here.
  * Throw in the diced onions
  * Stir occaisonally
  * Start timer (once onions are up to heat)
  * 5 MINS
    * Add the garlic, ginger, cumin and mustard seeds
-   * Boil 350ml water
+   * Boil 500ml water
  * 10 MINS
    * Add in the turmeric, chili powder and garam masala
    * Stir well
  * 11 MINS
+   * If you're using the pressure cooker, transfer everything now to the pressure cooker rather than frying pan
    * Add the boiled water
    * Add the coconut milk and chopped tomatoes
    * Add the lentils
    * Add 1dsp salt, 1dsp pepper
-   * Bring to boil
-   * Reduce to simmer heat
-   * Remove lid to boil off additional water. Add the pan back when it's at the level of thickness you like.
-   * cook for ~45 minutes until lentils are paste, stirring every 5 minutes
-* Restart timer
- * 5 MINS
-   * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 10 MINS
-   * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 15 MINS
-   * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 20 MINS
-   * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 25 MINS
-   * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 30 MINS
-   * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 35 MINS
-   * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 40 MINS
-   * Stir, ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
- * 45 MINS
-   * Should be done by now. If so, serve up.
+   * If you're not using pressure cooker...
+    * Bring to boil
+    * Reduce to simmer heat
+    * Remove lid to boil off additional water. Add the pan back when it's at the level of thickness you like.
+    * cook for ~45 minutes until lentils are paste, stirring every 5 minutes
+      * When stirring ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
+   * If you are cooking with a pressure cooker, simply put it on "curry mode" and wait 30 minutes or so until it's beeping like mad. After relesaing the pressure and opening it carefully stir the Daal well to break up any remaining mushy lentils (use a silicone whisk if you have one).
 
 Next time
 =========
