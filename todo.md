@@ -25,8 +25,6 @@
   * With Mash Potatoes?
 * Pasta Bake
 * Spaghetti Bolognese (Quorn mince?)
-* Apple Pie with Cloves
-  * https://confessionsofabakingqueen.com/apple-pie-with-cloves/
 * Ramen
 * Polenta
 * Chickpea Stew (Dad recommendation)
