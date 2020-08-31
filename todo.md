@@ -25,7 +25,6 @@
 * Vegetarian "beef" Bourguignon (with Beyond Burger in pieces?)
   * With Mash Potatoes?
 * Pasta Bake
-* Spaghetti Bolognese (Quorn mince?)
 * Ramen
 * Polenta
 * Chickpea Stew (Dad recommendation)
