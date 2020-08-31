@@ -35,3 +35,5 @@
   * Burritos https://www.noracooks.com/vegan-burritos/
   * Potato curry https://thecookreport.co.uk/pressure-cooker-curry-potato-aubergine/
   * A stew? https://www.brandnewvegan.com/recipes/instant-pot-veggie-stew
+* Vindaloo
+  * https://yupitsvegan.com/chickpea-vindaloo/
