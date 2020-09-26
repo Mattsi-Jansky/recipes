@@ -69,11 +69,11 @@ Cooking
    * Add the lentils
    * Add 1dsp salt, 1dsp pepper
    * If you're not using pressure cooker...
-    * Bring to boil
-    * Reduce to simmer heat
-    * Remove lid to boil off additional water. Add the pan back when it's at the level of thickness you like.
-    * cook for ~45 minutes until lentils are paste, stirring every 5 minutes
-      * When stirring ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
+     * Bring to boil
+     * Reduce to simmer heat
+     * Remove lid to boil off additional water. Add the pan back when it's at the level of thickness you like.
+     * cook for ~45 minutes until lentils are paste, stirring every 5 minutes
+       * When stirring ensure it isn't boiling above a simmer, scrape bottom to prevent lentils burning
    * If you are cooking with a pressure cooker, simply put it on "curry mode" and wait 30 minutes or so until it's beeping like mad. After relesaing the pressure and opening it carefully stir the Daal well to break up any remaining mushy lentils (use a silicone whisk if you have one).
 
 Next time
