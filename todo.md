@@ -32,7 +32,8 @@
 * Vegetarian pressure cooker meals
   * Anything from: https://www.delish.com/cooking/g25926591/instant-pot-vegetarian-recipes/
   * Burritos https://www.noracooks.com/vegan-burritos/
-  * Potato curry https://thecookreport.co.uk/pressure-cooker-curry-potato-aubergine/
   * A stew? https://www.brandnewvegan.com/recipes/instant-pot-veggie-stew
 * Vindaloo
   * https://yupitsvegan.com/chickpea-vindaloo/
+* Naan Bread
+  * https://greatcurryrecipes.net/2020/03/28/naan-recipe-instant-and-delicious-stovetop-naans/
