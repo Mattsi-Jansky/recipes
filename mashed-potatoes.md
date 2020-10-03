@@ -24,8 +24,10 @@ Preparation
 
 * Dice the onion, store in a container (optional)
 * Peel the potatoes and cut them in half
+  * If they're exceptionally big, cut them into thirds. Each piece should be similar sized to cook evenly and equally.
   * After peeling+cutting place each into the pot
 * Fill and start kettle (with enough water for the big pot)
+* Measure out butter
 
 Cooking
 =======
