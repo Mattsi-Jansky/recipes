@@ -39,3 +39,7 @@
   * https://greatcurryrecipes.net/2020/03/28/naan-recipe-instant-and-delicious-stovetop-naans/
 * Nut Roast
   * https://www.bbc.co.uk/food/recipes/nut_roast_38249
+* Shakshuka (cool-looking veggie meal with poached eggs in tomato sauce)
+  * https://www.onceuponachef.com/recipes/shakshuka.html
+* Eggplant Parmigiana
+  * https://www.bonappetit.com/recipe/bas-best-eggplant-parmesan
