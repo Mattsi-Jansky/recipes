@@ -57,9 +57,13 @@ WIP Apple pie with cloves. Not yet battle-proven.
 
 * Mix the sugar, salt and flour together in a mixing bowl
 * Mix the cold butter in
+  * Cut the butter up into pieces and use your hands to mix it in
+  * Or use a stand mixer if you have one
 * When thoroughly mixed it should resemble damp sand
 * Sprinkle the ice water over the mixture and gently mix in with a rubber spatula
   * When finished a dough will have formed. You may not need all the water.
+  * Use only the smallest bit of water until it forms a dough. I always make it way too hydrated.
+  * If it's too hydrated add flour
 * Remove dough from mixing bowl, place onto work surface, pad it int a disk/cylinder shape and liberally dust with flour.
 * Wrap it in clingfilm and place in the fridge for *2 hours*
 * Meanwhile, you can prepare the filling...
@@ -75,6 +79,7 @@ WIP Apple pie with cloves. Not yet battle-proven.
 * Add the cinnamon, ground nutmeg and ground cloves
 * Add 2tbsp flour
 * Mix well with spatula
+* If you won't be moving onto "make the pie" for a while yet, cover the filling with clingfilm and place in the fridge. If you leave it on the side it will sweat.
 
 ### Make the pie
 
