@@ -28,7 +28,7 @@ Ingredients
 * Tomato Puree
 * 2 Vegetable Stock Cubes
 * Quorn Mince 600g
-* Vegetale oil
+* Vegetable oil
 * Tacos (optional)
 
 Preparation
