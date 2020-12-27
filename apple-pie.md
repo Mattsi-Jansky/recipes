@@ -2,7 +2,7 @@
 
 ## Meta
 
-WIP Apple pie with cloves. Not yet battle-proven.
+Apple pie with cloves, like my grandma used to make.
 
 * Servings: 4-6
 * Calories per serving: ???
@@ -113,6 +113,8 @@ WIP Apple pie with cloves. Not yet battle-proven.
 
 * Try adding ginger? The Babish recipe recommends it
 * Try adding cornmeal? The BBC recipe recommends it
+* **Up the dough ingredients by about 20-25% and instead of splitting it in half put more of it into the base than the top.**
+  * Last time the base was very thin and difficult to work with, and the top had extra.
 
 ## Sources
 
