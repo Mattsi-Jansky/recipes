@@ -22,6 +22,7 @@
 * Paneer
 * Quesadillas
   * Weissman did a video on them! https://www.youtube.com/watch?v=mUA5m-113HQ
+  * See: Corn and Tomato Quesadillas recipe that a friend shared
 * Vegetarian "beef" Bourguignon (with Beyond Burger in pieces?)
   * With Mash Potatoes?
 * Pasta Bake
@@ -43,3 +44,7 @@
   * https://www.onceuponachef.com/recipes/shakshuka.html
 * Eggplant Parmigiana
   * https://www.bonappetit.com/recipe/bas-best-eggplant-parmesan
+* Spinach, Sweet Potato and Lentil Daal
+  * See that recipe a friend shared. May be able to adapt it to pressure cooker.
+* Spiced Chickpea Stew
+  * See that recipe a friend shared. May be able to adapt it to pressure cooker.
