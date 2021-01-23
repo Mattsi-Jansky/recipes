@@ -34,6 +34,7 @@
   * Anything from: https://www.delish.com/cooking/g25926591/instant-pot-vegetarian-recipes/
   * Burritos https://www.noracooks.com/vegan-burritos/
   * A stew? https://www.brandnewvegan.com/recipes/instant-pot-veggie-stew
+  * Khichdi (Heard it described as "Indian Soul Food")
 * Vindaloo
   * https://yupitsvegan.com/chickpea-vindaloo/
 * Naan Bread
