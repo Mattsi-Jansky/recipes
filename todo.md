@@ -49,3 +49,5 @@
   * See that recipe a friend shared. May be able to adapt it to pressure cooker.
 * Spiced Chickpea Stew
   * See that recipe a friend shared. May be able to adapt it to pressure cooker.
+* Improve spag bog recipe
+  * https://www.bbcgoodfood.com/recipes/best-spaghetti-bolognese-recipe
