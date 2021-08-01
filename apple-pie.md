@@ -85,7 +85,7 @@ Apple pie with cloves, like my grandma used to make.
 
 * Place a baking tray in the oven and begin heating it to 260 degrees (or if your oven doesn't go that high, turn it to as high as it'll go).
 * Once your dough has been in the fridge for at least 2 hours...
-* Dust the worksurace with flour, unwrap your dough and place on the worksurface, dust the top of it with dough too
+* Dust the worksurace with flour, unwrap your dough and place on the worksurface, dust the top of it with flour too
 * Knead it a bit by beating it with a rolling pin
 * Split the doguh into two pieces
 * With the first piece...
