@@ -51,5 +51,5 @@
   * See that recipe a friend shared. May be able to adapt it to pressure cooker.
 * Improve spag bog recipe
   * https://www.bbcgoodfood.com/recipes/best-spaghetti-bolognese-recipe
- * Veggie pie (same that Nick made xmas 2020)
+* Veggie pie (same that Nick made xmas 2020)
   * https://www.waitrose.com/content/waitrose/en/home/recipes/recipe_directory/v/veggie-christmaspie.html
