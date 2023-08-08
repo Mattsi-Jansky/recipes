@@ -50,6 +50,10 @@
 * Spiced Chickpea Stew
   * See that recipe a friend shared. May be able to adapt it to pressure cooker.
 * Improve spag bog recipe
+* Cream cakes (strawberry in particular?)
+ * https://www.youtube.com/watch?v=Xorz-gkzpic
+   * Would need to get some new kitchen stuff for this, not least of all non-non-stick cake trays and icing tools.
   * https://www.bbcgoodfood.com/recipes/best-spaghetti-bolognese-recipe
 * Veggie pie (same that Nick made xmas 2020)
   * https://www.waitrose.com/content/waitrose/en/home/recipes/recipe_directory/v/veggie-christmaspie.html
+* Sconnes?
