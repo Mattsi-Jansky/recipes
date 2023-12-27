@@ -20,7 +20,7 @@ Recipe for veggie quessadilas, very easy/quick and tasty.
 * 800g kidney beans
 * 400g sweetcorn
 * hot chilli powder
-* 18 small Tortillas
+* 18 small Tortilla wraps (taco-sized)
 * 500g grated cheddar cheese
 * Sour cream
 * Coriander
@@ -36,7 +36,7 @@ Recipe for veggie quessadilas, very easy/quick and tasty.
 ## Cooking
 
 * Heat 2tbsp oil in the pan
-* Add the pepper, cook medium heat 
+* Add the pepper, cook medium heat
 * Start the timer
 * 5 MINUTES
   * Add tomatoes, beans, sweetcorn, chilli powder
