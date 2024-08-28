@@ -54,3 +54,6 @@
 * Veggie pie (same that Nick made xmas 2020)
   * https://www.waitrose.com/content/waitrose/en/home/recipes/recipe_directory/v/veggie-christmaspie.html
 * Sconnes?
+* Bunny Chow - this looks so tasty
+ * https://www.veganrecipeclub.org.uk/recipes/bunny-chow-with-sweet-potato-chickpea-curry/
+ * https://tinandthyme.uk/2020/10/bunny-chow/
