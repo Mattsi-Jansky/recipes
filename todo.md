@@ -19,7 +19,6 @@
       * Mushrooms?
       * Mac and Cheese?
   * Veggie gravy
-* Paneer
 * Vegetarian "beef" Bourguignon (with Beyond Burger in pieces?)
   * With Mash Potatoes?
 * Pasta Bake
