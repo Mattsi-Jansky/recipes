@@ -69,7 +69,7 @@ Cooking
 Preparation step 2
 ===========
 
-* Heat oven to 200C
+* Heat oven to 180C (fan, 200 old-style)
 * Measure out 20g of panko breadcrumbs into a large container
 * Grate (or measure if pre-grated) 25g of hard cheese, 25g of mozorella, and 75g of mature cheddar, all into the same container as the panko breadcrumbs
 * Add 1/8th tsp of of black papper to the same mixture
