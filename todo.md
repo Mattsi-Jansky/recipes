@@ -56,3 +56,6 @@
 * Bunny Chow - this looks so tasty
   * https://www.veganrecipeclub.org.uk/recipes/bunny-chow-with-sweet-potato-chickpea-curry/
   * https://tinandthyme.uk/2020/10/bunny-chow/
+* (vegetarian) Cottage Pie
+  * Replace the beef with beyond, stock with veggie stock: https://www.nationaltrust.org.uk/discover/food/recipes/pies-savoury-treats/cottage-pie
+  * ^ This recipe is designed for cafateria-sized oven dishes, might need some experimentation with ingredients to size it right. Halve it?
