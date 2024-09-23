@@ -59,3 +59,4 @@
 * (vegetarian) Cottage Pie
   * Replace the beef with beyond, stock with veggie stock: https://www.nationaltrust.org.uk/discover/food/recipes/pies-savoury-treats/cottage-pie
   * ^ This recipe is designed for cafateria-sized oven dishes, might need some experimentation with ingredients to size it right. Halve it?
+* Some sick-ass scones: https://www.nationaltrust.org.uk/discover/food/recipes/cakes-bakes-desserts/fruit-scones
