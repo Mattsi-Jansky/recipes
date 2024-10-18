@@ -1,6 +1,6 @@
 ## Meta
 
-Vegetarian Cottage Pie, supplementing the beef for a plant-based substitute.
+Vegetarian and gluten-free Cottage Pie, supplementing the beef for a plant-based substitute.
 
 * Servings: ??
 * Caloriges per serving: ??
@@ -21,7 +21,6 @@ Vegetarian Cottage Pie, supplementing the beef for a plant-based substitute.
 * 175g carrots
 * 175g mushrooms
 * 2 garlic cloves
-* 3 tbsp plain flour
 * 1 tbsp tomato purée
 * large glass of red wine (optional)
 * Two vegetable stock cubes
