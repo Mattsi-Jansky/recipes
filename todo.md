@@ -60,3 +60,9 @@
   * Replace the beef with beyond, stock with veggie stock: https://www.nationaltrust.org.uk/discover/food/recipes/pies-savoury-treats/cottage-pie
   * ^ This recipe is designed for cafateria-sized oven dishes, might need some experimentation with ingredients to size it right. Halve it?
 * Some sick-ass scones: https://www.nationaltrust.org.uk/discover/food/recipes/cakes-bakes-desserts/fruit-scones
+* Easy appetisers for dinner parties
+  * Baked brie https://www.loveandlemons.com/baked-brie/
+  * Guacamole https://www.loveandlemons.com/guacamole-recipe/
+  * Air Fryer Zucchini Chips https://www.loveandlemons.com/air-fryer-zucchini-chips/
+  * Stuffed Mushrooms https://www.loveandlemons.com/stuffed-mushrooms/
+  * Deviled Eggs https://www.loveandlemons.com/deviled-eggs/
