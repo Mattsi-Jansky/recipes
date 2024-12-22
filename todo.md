@@ -65,4 +65,3 @@
   * Guacamole https://www.loveandlemons.com/guacamole-recipe/
   * Air Fryer Zucchini Chips https://www.loveandlemons.com/air-fryer-zucchini-chips/
   * Stuffed Mushrooms https://www.loveandlemons.com/stuffed-mushrooms/
-  * Deviled Eggs https://www.loveandlemons.com/deviled-eggs/
