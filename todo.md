@@ -64,4 +64,4 @@
   * Baked brie https://www.loveandlemons.com/baked-brie/
   * Guacamole https://www.loveandlemons.com/guacamole-recipe/
   * Air Fryer Zucchini Chips https://www.loveandlemons.com/air-fryer-zucchini-chips/
-  * Stuffed Mushrooms https://www.loveandlemons.com/stuffed-mushrooms/
+  * Stuffed Mushrooms with cream cheese https://www.allrecipes.com/recipe/15184/mouth-watering-stuffed-mushrooms/?utm_source=chatgpt.com
