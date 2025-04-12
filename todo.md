@@ -65,3 +65,4 @@
   * Guacamole https://www.loveandlemons.com/guacamole-recipe/
   * Air Fryer Zucchini Chips https://www.loveandlemons.com/air-fryer-zucchini-chips/
   * Stuffed Mushrooms with cream cheese https://www.allrecipes.com/recipe/15184/mouth-watering-stuffed-mushrooms/?utm_source=chatgpt.com
+* Casserole, vegan: https://veganism.social/@jessinthekitchen/114315315163826722 https://jessicainthekitchen.com/vegan-chili-cornbread-casserole/
