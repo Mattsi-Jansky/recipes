@@ -1,6 +1,5 @@
 # Meals to learn
 
-* aubergine parmigiana (Siddv recommendation)
 * English Dinner
   * Mash Potatoes
   * Parsnips
@@ -21,7 +20,6 @@
   * Veggie gravy
 * Vegetarian "beef" Bourguignon (with Beyond Burger in pieces?)
   * With Mash Potatoes?
-* Pasta Bake
 * Ramen
 * Polenta
 * Chickpea Stew (Dad recommendation)
@@ -39,7 +37,7 @@
   * https://www.bbc.co.uk/food/recipes/nut_roast_38249
 * Shakshuka (cool-looking veggie meal with poached eggs in tomato sauce)
   * https://www.onceuponachef.com/recipes/shakshuka.html
-* Eggplant Parmigiana
+* Aubergine Parmigiana (Siddv recommends)
   * https://www.bonappetit.com/recipe/bas-best-eggplant-parmesan
 * Spinach, Sweet Potato and Lentil Daal
   * See that recipe a friend shared. May be able to adapt it to pressure cooker.
@@ -56,9 +54,6 @@
 * Bunny Chow - this looks so tasty
   * https://www.veganrecipeclub.org.uk/recipes/bunny-chow-with-sweet-potato-chickpea-curry/
   * https://tinandthyme.uk/2020/10/bunny-chow/
-* (vegetarian) Cottage Pie
-  * Replace the beef with beyond, stock with veggie stock: https://www.nationaltrust.org.uk/discover/food/recipes/pies-savoury-treats/cottage-pie
-  * ^ This recipe is designed for cafateria-sized oven dishes, might need some experimentation with ingredients to size it right. Halve it?
 * Some sick-ass scones: https://www.nationaltrust.org.uk/discover/food/recipes/cakes-bakes-desserts/fruit-scones
 * Easy appetisers for dinner parties
   * Baked brie https://www.loveandlemons.com/baked-brie/
