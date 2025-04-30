@@ -15,7 +15,7 @@ Very simple Rocket salad.
 
 * A couple handfuls of rocket (arugula)
 * 150g Cherry tomatoes (but more is always better)
-* 1tsp A splash of cider vinegar
+* 1tsp cider vinegar
 * 2.5tsp extra virgin olive oil
 * Sea salt (or just regular salt)
 * Black pepper
