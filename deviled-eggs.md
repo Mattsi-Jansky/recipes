@@ -12,6 +12,7 @@ Simple tasty appetiser made with eggs served cold.
 
 * 6 large eggs
 * 1tsp Dijon mustard
+* 3tbsp mayonaise
 * 1tsp apple cider vinegar
 * sea salt flakes
 * pepper
@@ -30,12 +31,14 @@ Simple tasty appetiser made with eggs served cold.
 * Peel all of the eggs
 * Cut all the eggs into halves
 * Using a teaspoon, scoop out the hard yolks from each egg and place the yolks into a bowl
+  * You can also squeeze the egg and let the yolk pop out, if it is loose enough
 * Mash the yolks with a fork until it is finely crumbled
 * Add 3tbsp mayonaise, 1tsp dijone mustard, 1tsp apple cider vinegar, and a couple pinches of sea salt flakes and a pinch of pepper (or to taste)
   * Optionally, add one or two drops of tobasco sauce
 * Stir everything until it is smooth
 * Use a teaspoon to add a portion of the mixture back into the yolk hole of each of the hard-boiled eggs
   * Draw a fork across the added mixture afterwards, it makes it look a bit cleaner/tidier
+* Sprinkle paprika over them for a garnish
 
 ## Sources
 
