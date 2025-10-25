@@ -58,7 +58,6 @@
   * https://tinandthyme.uk/2020/10/bunny-chow/
 * Some sick-ass scones: https://www.nationaltrust.org.uk/discover/food/recipes/cakes-bakes-desserts/fruit-scones
 * Easy appetisers for dinner parties
-  * Baked brie https://www.loveandlemons.com/baked-brie/
   * Guacamole https://www.loveandlemons.com/guacamole-recipe/
   * Air Fryer Zucchini Chips https://www.loveandlemons.com/air-fryer-zucchini-chips/
 * Casserole, vegan: https://veganism.social/@jessinthekitchen/114315315163826722 https://jessicainthekitchen.com/vegan-chili-cornbread-casserole/
