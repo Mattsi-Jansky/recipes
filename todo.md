@@ -50,7 +50,6 @@
   * https://www.bbcgoodfood.com/recipes/best-spaghetti-bolognese-recipe
 * Veggie pie (same that Nick made xmas 2020)
   * https://www.waitrose.com/content/waitrose/en/home/recipes/recipe_directory/v/veggie-christmaspie.html
-* Sconnes?
 * Bunny Chow - this looks so tasty
   * https://www.veganrecipeclub.org.uk/recipes/bunny-chow-with-sweet-potato-chickpea-curry/
   * https://tinandthyme.uk/2020/10/bunny-chow/
@@ -61,3 +60,4 @@
   * Air Fryer Zucchini Chips https://www.loveandlemons.com/air-fryer-zucchini-chips/
   * Stuffed Mushrooms with cream cheese https://www.allrecipes.com/recipe/15184/mouth-watering-stuffed-mushrooms/?utm_source=chatgpt.com
 * Casserole, vegan: https://veganism.social/@jessinthekitchen/114315315163826722 https://jessicainthekitchen.com/vegan-chili-cornbread-casserole/
+* Strange sweet potato noodles recipe: https://www.bbcgoodfood.com/recipes/sweet-potato-hash-eggs-smashed-avo
