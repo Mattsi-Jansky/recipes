@@ -37,6 +37,9 @@
   * https://www.bbc.co.uk/food/recipes/nut_roast_38249
 * Shakshuka (cool-looking veggie meal with poached eggs in tomato sauce)
   * https://www.onceuponachef.com/recipes/shakshuka.html
+  * https://preppykitchen.com/shakshuka/ 
+  * https://www.youtube.com/watch?v=Uow78qBAWRk
+  * Needs some nice bread to go with it? https://preppykitchen.com/garlic-bread/
 * Aubergine Parmigiana (Siddv recommends)
   * https://www.bonappetit.com/recipe/bas-best-eggplant-parmesan
 * Spinach, Sweet Potato and Lentil Daal
@@ -44,10 +47,10 @@
 * Spiced Chickpea Stew
   * See that recipe a friend shared. May be able to adapt it to pressure cooker.
 * Improve spag bog recipe
+  * https://www.bbcgoodfood.com/recipes/best-spaghetti-bolognese-recipe
 * Cream cakes (strawberry in particular?)
  * https://www.youtube.com/watch?v=Xorz-gkzpic
    * Would need to get some new kitchen stuff for this, not least of all non-non-stick cake trays and icing tools.
-  * https://www.bbcgoodfood.com/recipes/best-spaghetti-bolognese-recipe
 * Veggie pie (same that Nick made xmas 2020)
   * https://www.waitrose.com/content/waitrose/en/home/recipes/recipe_directory/v/veggie-christmaspie.html
 * Bunny Chow - this looks so tasty
@@ -58,6 +61,5 @@
   * Baked brie https://www.loveandlemons.com/baked-brie/
   * Guacamole https://www.loveandlemons.com/guacamole-recipe/
   * Air Fryer Zucchini Chips https://www.loveandlemons.com/air-fryer-zucchini-chips/
-  * Stuffed Mushrooms with cream cheese https://www.allrecipes.com/recipe/15184/mouth-watering-stuffed-mushrooms/?utm_source=chatgpt.com
 * Casserole, vegan: https://veganism.social/@jessinthekitchen/114315315163826722 https://jessicainthekitchen.com/vegan-chili-cornbread-casserole/
 * Strange sweet potato noodles recipe: https://www.bbcgoodfood.com/recipes/sweet-potato-hash-eggs-smashed-avo
