@@ -49,8 +49,8 @@
 * Improve spag bog recipe
   * https://www.bbcgoodfood.com/recipes/best-spaghetti-bolognese-recipe
 * Cream cakes (strawberry in particular?)
- * https://www.youtube.com/watch?v=Xorz-gkzpic
-   * Would need to get some new kitchen stuff for this, not least of all non-non-stick cake trays and icing tools.
+  * https://www.youtube.com/watch?v=Xorz-gkzpic
+  * Would need to get some new kitchen stuff for this, not least of all non-non-stick cake trays and icing tools.
 * Veggie pie (same that Nick made xmas 2020)
   * https://www.waitrose.com/content/waitrose/en/home/recipes/recipe_directory/v/veggie-christmaspie.html
 * Bunny Chow - this looks so tasty
@@ -63,3 +63,10 @@
   * Air Fryer Zucchini Chips https://www.loveandlemons.com/air-fryer-zucchini-chips/
 * Casserole, vegan: https://veganism.social/@jessinthekitchen/114315315163826722 https://jessicainthekitchen.com/vegan-chili-cornbread-casserole/
 * Strange sweet potato noodles recipe: https://www.bbcgoodfood.com/recipes/sweet-potato-hash-eggs-smashed-avo
+* Big veggie meal / dinner party mains ideas
+  * Spinach and Ricotta Cannelloni
+  * Stuffed Peppers (can be pre-prepared and re-heated)
+  * Paneer and Vegetable Biryani
+  * Vegetable Enchiladas with Black Beans and Sweet Potato
+  * Gnocchi Bake with Roasted Vegetables and Pesto Cream
+  * Pumpkin and Spinach Strudel
