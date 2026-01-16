@@ -20,8 +20,6 @@
   * Veggie gravy
 * Vegetarian "beef" Bourguignon (with Beyond Burger in pieces?)
   * With Mash Potatoes?
-* Ramen
-  * https://www.seriouseats.com/serious-entertaining-a-ramen-blowout-feast-menu
 * Polenta
 * Chickpea Stew (Dad recommendation)
   * https://pamelasalzman.com/spiced-chickpea-stew-with-coconut-and-turmeric/
