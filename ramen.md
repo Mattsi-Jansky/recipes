@@ -107,7 +107,9 @@ A vegetarian Ramen with Tonkotsu-style broth.
   * For Enoki mushrooms trim the roots off, pull them apart a little with your hands and throw it all in together. Separate them further with a spoon as they cook.
 * Trim the Bok Choy, slice into halves / quite large pieces.
 * Measure out as much tofu as you'd like
-* Trim and slice the spring onion, store the green and white parts separately
+* Spring onion
+  * Trim the ends, branches, and peel the outer-most layer
+  * Trim and slice the remaining, store the green and white parts separately
 
 ## Cooking - Ramen
 
