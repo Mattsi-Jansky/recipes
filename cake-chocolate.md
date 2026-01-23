@@ -25,7 +25,7 @@ A simple chocolate cake recipe
 
 ### Cake
 
-* 300g all-purpose flour
+* 300g plain (or "all-purpose") flour
 * 80g cocoa powder
 * 2tsp baking powder
 * 3 quarters of a tsp baking soda (aka bicarbonate soda)
@@ -62,9 +62,11 @@ A simple chocolate cake recipe
 
 * Prepare baking tray
   * Cut out a piece of baking paper to fit your springform pan
+  * Grease the edges of the pan and the base of the pan
+    * Greasing can be done a few different ways. One simple way is to take a bit of butter and rub it around by hand.
   * Place the paper in the pan and grease the top of it
   * Ensure the mixing paper is flat and reaches the edges
-  * Grease the edges of the pan
+  * Grease the top of the paper
 * Prepare cake mix
   * Sift 300g of all-purpose flour into mixing bowl
   * Sift in 80g of cocoa powder

@@ -30,11 +30,11 @@ A tasty oven-cooked, lasagne-like Greek dish.
 * flat leaf parsley, 2 tbsp
 * large aubergines, 2
 * ricotta, 250g
-* mature cheddar, 50g // todo remember to instruct to grate this, but later not during prep
+* mature cheddar, 50g
 
 ## Preparation
 
-* Dice or crushs the garlic
+* Dice or crush the garlic
 * Rinse and/or scrub the potatoes if necessary
 * Dice the onions
 * Boil a full kettle
@@ -61,6 +61,7 @@ A tasty oven-cooked, lasagne-like Greek dish.
   * Twice fill the chopped tomatoes tin with water and add to the pan
   * Add the vegetable stock cube
 * Drain the lentils
+  * When??
 * Stir the lentils into the tomato sauce
 * Bring the tomato sauce to boil, then reduce to a medium heat simmer
   * Stir occasionally
@@ -78,9 +79,10 @@ A tasty oven-cooked, lasagne-like Greek dish.
   * Once parsley is sufficiently stirred in, take the sauce off the heat
 * Prepare for the oven
   * Pour half of the tomato sauce into the baking tray
-  * Pour half of the potatoes and aubergines over the top, spread well to distribute venly
+  * Pour half of the potatoes and aubergines over the top, spread well to distribute evenly
   * Pour the remaining tomato sauce over the top, ensure it spreads across the fillings
   * Pour the remaining tomato sauce over the top, spreading well
+    * TODO repeating the same step ?? should it say potatoes/aubergines?
 * Prepare the cheese topping
   * Grate the cheddar into a small bowl
   * Add the ricotta in and mix well

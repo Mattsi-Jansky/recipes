@@ -2,7 +2,7 @@
 
 ## Meta
 
-Lentil curry. Have with rice and/or wraps/Chappati.
+Lentil curry. Serve with rice and/or wraps/Chappati. Also goes nicely with boiled egg.
 
 * Servings: 8
 * Calories per serving: 300

@@ -43,16 +43,18 @@ Ingredients
 Preparation
 ===========
 
+* Measure out Red Pesto into a container
+* Measure out red wine into a small glass
+* Measure out 25g butter
+* Measure out 25g Plain Flour
+
 * Dice the onion, store in a container
 * Crush and Dice Garlic Cloves, store in the same container as the onion
 * Dice mushrooms, store in a container
 * Open Chopped Tomatoes
 * Measure out 500g Quorn Mince into a container
-* Measure out Red Pesto into a container
-* Measure out red wine into a small glass
+
 * Start preheating oven to 200C
-* Measure out 25g butter
-* Measure out 25g Plain Flour
 * Grate the cheddar into a container
 * Set aside Basil Powder, Rosemary Powder and Thyme in a small container
 * Set aside Oregano, Dried Chilli Flakes, Garlic Powder, Parsley Powder in small container

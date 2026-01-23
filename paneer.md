@@ -40,6 +40,7 @@ Homemade Paneer (marinated cottage cheese) recipe (and whey). The fundamental id
 * With heat off, leave alone for 8 minutes.
 * Place your muslin-colander-bowl construction into the sink
 * Strain the milk through the muslin-colander-bowl construction. The liquid whey should filter through to the bowl, while the curds get caught in the muslin.
+  * This can take a while. You can encourage the process by stirring the milk with a spoon, but be careful not to spill any and remember that it is very hot.
 * Strain the milk curds with the muslin and place them on a plate.
   * Straining method: Gather up the corners of the muslin and twist them tighter until the contents forms into a ball and more water comes out as you squeeze it tighter
 * Place the muslin and cheese onto a plate and shape it into a disc. Stack a few plates on top to add weight (such that the cheese still wrapped in muslin is sandwidched between plates).
