@@ -1,4 +1,4 @@
-# Ramen
+# Ajitsuke Tamago (Ramen-style marinated eggs)
 
 ## Meta
 
